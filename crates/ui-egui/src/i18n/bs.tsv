@@ -606,7 +606,7 @@
 	PRs	PR-ovi
 	Page Setup Manager	Upravitelj postavki stranice
 	Page Setup Manager...	Upravitelj postavki stranice...
-	Pan	Pomicanje pogleda
+	Pan	Pomjeranje pogleda
 	Pan Down	Pomakni pogled dolje
 	Pan Left	Pomakni pogled lijevo
 	Pan Right	Pomakni pogled desno
@@ -884,7 +884,7 @@
 	Specify base diameter	Navedite prečnik baze
 	Specify base point	Navedite baznu tačku
 	Specify base point or	Navedite baznu tačku ili
-	Specify base point or displacement (drag with the middle mouse button for realtime pan)	Navedite baznu tačku ili pomak (prevucite srednjim dugmetom miša za pomicanje pogleda u stvarnom vremenu)
+	Specify base point or displacement (drag with the middle mouse button for realtime pan)	Navedite baznu tačku ili pomak (prevucite srednjim dugmetom miša za pomjeranje pogleda u stvarnom vremenu)
 	Specify base radius or	Navedite poluprečnik baze ili
 	Specify center of donut	Navedite središte prstena
 	Specify center of ellipse	Navedite središte elipse
@@ -1246,9 +1246,9 @@ menu	Modify	Izmijeni
 	Drawings with no file yet are saved in the default version. 0 minutes turns automatic save off.	Crteži koji još nemaju datoteku čuvaju se u zadanoj verziji. 0 minuta isključuje automatsko čuvanje.
 	Enable 3D mouse navigation	Omogući navigaciju 3D mišem
 	Left device button: zoom extents. Right device button: calibrate.	Lijevo dugme uređaja: zumiraj na opseg. Desno dugme uređaja: kalibriraj.
-	Move sideways to pan; push/pull or twist to zoom.	Pomjerite postrance za pomicanje pogleda; gurnite/povucite ili zakrenite za zumiranje.
+	Move sideways to pan; push/pull or twist to zoom.	Pomjerite postrance za pomjeranje pogleda; gurnite/povucite ili zakrenite za zumiranje.
 	No supported 3D mouse found	Nije pronađen podržani 3D miš
-	Pan sensitivity	Osjetljivost pomicanja pogleda
+	Pan sensitivity	Osjetljivost pomjeranja pogleda
 	Release the 3D mouse to calibrate its resting position	Pustite 3D miš da kalibrirate njegov položaj mirovanja
 	Reverse zoom direction	Obrni smjer zumiranja
 	Run Script...	Pokreni skriptu...
